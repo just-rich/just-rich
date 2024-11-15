@@ -17,11 +17,7 @@ NVSTly is a free interactive social investing platform where traders can track, 
 </p>
 
 ## Links:
-[NVSTly Web](https://nvstly.com)  
-[iOS App](https://nvstly.com/go/ios)  
-[Google Play App](https://nvstly.com/go/android)  
-[Discord App/Bot](https://nvstly.com/go/bot)  
-[Github](https://github.com/nvstly)
+[NVSTly Web](https://nvstly.com) | [iOS App](https://nvstly.com/go/ios) | [Google Play App](https://nvstly.com/go/android) | [Discord App/Bot](https://nvstly.com/go/bot) | [Github](https://github.com/nvstly)
 
 ## Socials
 [Discord](https://nvstly.com/go/discord)  
