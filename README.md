@@ -29,6 +29,7 @@ NVSTly is a free interactive social investing platform where traders can track, 
 [YouTube](https://nvstly.com/go/youtube)  
 [TikTok](https://nvstly.com/go/tiktok)  
 [Instagram](https://nvstly.com/go/instagram)  
+[Stocktwits](https://nvstly.com/go/stocktwits)  
 [Linkedin](https://nvstly.com/go/linkedin)  
 [Facebook](https://nvstly.com/go/)
 
