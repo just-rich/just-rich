@@ -32,4 +32,4 @@ NVSTly is a free interactive social investing platform where traders can track, 
 
 ## Awards
 People's Choice Award at Benzinga FinTech Deal Day & Awards 2024  
-#1 FinTech Product of the Week on Product Hunt (x2)
+#1 FinTech Product of the Week (x2) & #4 FinTech Product of the Month on Product Hunt
