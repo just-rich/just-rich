@@ -2,7 +2,8 @@
 
 Founder & CEO at [NVSTly](https://nvstly.com)  
 X/Twitter: https://x.com/saidbyrich  
-Discord: `itsrich.`
+LinkedIn: https://www.linkedin.com/in/richardewatson  
+Discord: `itsrich.` (User ID: `877345663900340254`) - Beware of impersonaters!
 
 &nbsp;
 
