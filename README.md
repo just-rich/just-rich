@@ -21,14 +21,7 @@ NVSTly is a free interactive social investing platform where traders can track, 
 [NVSTly Web](https://nvstly.com) | [iOS App](https://nvstly.com/go/ios) | [Google Play App](https://nvstly.com/go/android) | [Discord App/Bot](https://nvstly.com/go/bot) | [GitHub](https://github.com/nvstly)
 
 ## Socials
-[Discord](https://nvstly.com/go/discord)  
-[X/Twitter](https://nvstly.com/go/x)  
-[YouTube](https://nvstly.com/go/youtube)  
-[TikTok](https://nvstly.com/go/tiktok)  
-[Instagram](https://nvstly.com/go/instagram)  
-[Stocktwits](https://nvstly.com/go/stocktwits)  
-[LinkedIn](https://nvstly.com/go/linkedin)  
-[Facebook](https://nvstly.com/go/)
+[Discord](https://nvstly.com/go/discord) | [X/Twitter](https://nvstly.com/go/x) | [YouTube](https://nvstly.com/go/youtube) | [TikTok](https://nvstly.com/go/tiktok) | [Instagram](https://nvstly.com/go/instagram) | [Stocktwits](https://nvstly.com/go/stocktwits) | [LinkedIn](https://nvstly.com/go/linkedin) | [Facebook](https://nvstly.com/go/) | [Linktree](https://linktr.ee/nvstly)
 
 ## Awards
 [People's Choice Award](https://www.benzinga.com/news/events/24/11/42098678/these-are-the-top-fintech-innovators-recognized-at-benzingas-2024-global-fintech-awards) at Benzinga FinTech Deal Day & Awards 2024  
