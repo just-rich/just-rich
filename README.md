@@ -21,7 +21,7 @@ NVSTly is a free interactive social investing platform where traders can track, 
 [NVSTly Web](https://nvstly.com) | [iOS App](https://nvstly.com/go/ios) | [Google Play App](https://nvstly.com/go/android) | [Discord App/Bot](https://nvstly.com/go/bot) | [GitHub](https://github.com/nvstly)
 
 ## Socials
-[Discord](https://nvstly.com/discord) | [X/Twitter](https://nvstly.com/go/x) | [YouTube](https://nvstly.com/go/youtube) | [TikTok](https://nvstly.com/go/) | [Instagram](https://nvstly.com/go/instagram) | [Threads](https://nvstly.com/go/) | [Facebook](https://nvstly.com/go/) | [LinkedIn](https://nvstly.com/go/) | [Linktree](https://nvstly.com/go/linktree) | [Mastodon](https://nvstly.com/go/mastodon) | [Nostr](https://nvstly.com/go/) | [Bluesky](https://nvstly.com/go/bsky) | [Hive/InLeo](https://nvstly.com/hive) | [Product Hunt](https://nvstly.com/go/producthunt)
+[Discord](https://nvstly.com/discord) | [X/Twitter](https://nvstly.com/go/x) | [YouTube](https://nvstly.com/go/youtube) | [TikTok](https://nvstly.com/go/tiktok) | [Instagram](https://nvstly.com/go/instagram) | [Threads](https://nvstly.com/go/threads) | [Facebook](https://nvstly.com/go/facebook) | [LinkedIn](https://nvstly.com/go/linkedin) | [Linktree](https://nvstly.com/go/linktree) | [Mastodon](https://nvstly.com/go/mastodon) | [Nostr](https://nvstly.com/go/nostr) | [Bluesky](https://nvstly.com/go/bsky) | [Hive/InLeo](https://nvstly.com/go/hive) | [Product Hunt](https://nvstly.com/go/producthunt)
 
 ## Awards
 [People's Choice Award](https://www.benzinga.com/news/events/24/11/42098678/these-are-the-top-fintech-innovators-recognized-at-benzingas-2024-global-fintech-awards) at Benzinga FinTech Deal Day & Awards 2024  
