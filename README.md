@@ -8,7 +8,7 @@ Founder & CEO at [NVSTly](https://nvstly.com)
 
 <p align="center">
   <a href="https://discord.com/users/877345663900340254">
-    <img src="https://i.imgur.com/6gykrji.png" alt="My Discord Profile" />
+    <img src="pages/assets/images/discord_profile.png" alt="My Discord Profile" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@ Founder & CEO at [NVSTly](https://nvstly.com)
 
 <p align="center" width="100%">
     <a href="https://nvstly.com" target="_blank">
-        <img width="33%" src="https://cdn.nvstly.com/static/banner_clear.png" alt="NVSTly Banner">
+        <img width="33%" src="pages/assets/images/nvstly_banner.png" alt="NVSTly Banner">
     </a>
 </p>
 
@@ -30,7 +30,7 @@ NVSTly is a free interactive social investing platform where traders can track, 
 
 <p align="center" width="100%">
     <a href="https://nvstly.com" target="_blank">
-        <img width="33%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazcxdDkybWxmb2k4dHQ3bHU0NHB4Yzdkc3o0dnpwajVmajhrZmgzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hfqBAeTEatIFCLVnyH/giphy.gif" alt="NVSTly: Social Investing">
+        <img width="33%" src="pages/assets/images/nvstly_promo.gif" alt="NVSTly: Social Investing">
     </a>
 </p>
 
@@ -39,11 +39,11 @@ NVSTly is a free interactive social investing platform where traders can track, 
 
 <p align="center">
   <a href="https://nvstly.com/go/ios" target="_blank">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="50">
+    <img src="pages/assets/images/app_store.png" alt="Download on the App Store" height="50">
   </a>
   &nbsp;
   <a href="https://nvstly.com/go/android" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
+    <img src="pages/assets/images/google_play.png" alt="Get it on Google Play" height="50">
   </a>
 </p>
 
@@ -56,7 +56,7 @@ NVSTly is a free interactive social investing platform where traders can track, 
 
 <p align="center">
   <a href="https://www.benzinga.com/news/events/24/11/42098678/these-are-the-top-fintech-innovators-recognized-at-benzingas-2024-global-fintech-awards" target="_blank">
-    <img src="https://i.imgur.com/0BOdUU2.png" alt="People's Choice Award" height="160">
+    <img src="pages/assets/images/benzinga_badge.png" alt="People's Choice Award" height="160">
   </a>
 </p>
 
