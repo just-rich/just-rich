@@ -79,54 +79,41 @@ NVSTly is a free interactive social investing platform where traders can track, 
     <a href="https://nvstly.com/go/youtube" target="_blank">
     <img src="pages/assets/icons/youtube.svg" alt="Subscribe to NVSTly on YouTube">
   </a>
-  </a>
     <a href="https://nvstly.com/go/tiktok" target="_blank">
     <img src="pages/assets/icons/tiktok.svg" alt="Follow NVSTly on TikTok">
-  </a>
   </a>
     <a href="https://nvstly.com/go/instagram" target="_blank">
     <img src="pages/assets/icons/instagram.svg" alt="Follow NVSTly on Instagram">
   </a>
-  </a>
     <a href="https://nvstly.com/go/threads" target="_blank">
     <img src="pages/assets/icons/threads.svg" alt="Follow NVSTly on Threads">
-  </a>
   </a>
     <a href="https://nvstly.com/go/facebook" target="_blank">
     <img src="pages/assets/icons/facebook.svg" alt="Follow NVSTly on Facebook">
   </a>
-  </a>
     <a href="https://nvstly.com/go/linkedin" target="_blank">
     <img src="pages/assets/icons/linkedin.svg" alt="Follow NVSTly on LinkedIn">
-  </a>
   </a>
     <a href="https://nvstly.com/go/bsky" target="_blank">
     <img src="pages/assets/icons/bsky.svg" alt="Follow NVSTly on Bluesky">
   </a>
-  </a>
     <a href="https://nvstly.com/go/mastodon" target="_blank">
     <img src="pages/assets/icons/mastodon.svg" alt="Follow NVSTly on Mastodon">
-  </a>
   </a>
     <a href="https://nvstly.com/go/nostr" target="_blank">
     <img src="pages/assets/icons/nostr.svg" alt="Follow NVSTly on Nostr">
   </a>
-  </a>
     <a href="https://nvstly.com/go/producthunt" target="_blank">
     <img src="pages/assets/icons/producthunt.svg" alt="Follow NVSTly on Product Hunt">
-  </a>
   </a>
     <a href="https://nvstly.com/go/github" target="_blank">
     <img src="pages/assets/icons/github.svg" alt="Check out NVSTly on GitHub">
   </a>
-  </a>
     <a href="https://nvstly.com/go/hive" target="_blank">
     <img src="pages/assets/icons/hive.svg" alt="Follow NVSTly on Hive">
   </a>
-  </a>
     <a href="https://nvstly.com/go/medium" target="_blank">
     <img src="pages/assets/icons/medium.svg" alt="Follow NVSTly on Medium">
-  </a>
   </a>
     <a href="https://nvstly.com/go/substack" target="_blank">
     <img src="pages/assets/icons/substack.svg" alt="Subscribe to NVSTly on Substack">
