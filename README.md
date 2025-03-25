@@ -31,7 +31,7 @@ Founder & CEO at [NVSTly](https://nvstly.com)
   </a>
 </p>
 
-**Media Mentions:**
+### **Media Mentions:**
 - [![IndieHackers](pages/assets/icons/ih.svg)](https://www.indiehackers.com/post/34-year-old-finds-financial-freedom-through-day-trading-and-uses-it-to-build-a-10k-mo-fintech-product-PujthWlU8L3nS4mz2GSc) [34-year-old finds financial freedom through day trading and uses it to build a $10k/mo fintech product](https://www.indiehackers.com/post/34-year-old-finds-financial-freedom-through-day-trading-and-uses-it-to-build-a-10k-mo-fintech-product-PujthWlU8L3nS4mz2GSc)
 - [![IndieHackers](pages/assets/icons/ih.svg)](https://www.indiehackers.com/post/growing-a-fintech-product-to-12k-mo-by-leveraging-discord-8qNnfXXF9OGLceO1yStX) [Growing a fintech product to $12k/mo by leveraging Discord](https://www.indiehackers.com/post/growing-a-fintech-product-to-12k-mo-by-leveraging-discord-8qNnfXXF9OGLceO1yStX)
 
