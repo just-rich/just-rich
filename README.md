@@ -32,8 +32,8 @@ Founder & CEO at [NVSTly](https://nvstly.com)
 </p>
 
 **Media Mentions:**
-- [34-year-old finds financial freedom through day trading and uses it to build a $10k/mo fintech product](https://www.indiehackers.com/post/34-year-old-finds-financial-freedom-through-day-trading-and-uses-it-to-build-a-10k-mo-fintech-product-PujthWlU8L3nS4mz2GSc)
-- [Growing a fintech product to $12k/mo by leveraging Discord](https://www.indiehackers.com/post/growing-a-fintech-product-to-12k-mo-by-leveraging-discord-8qNnfXXF9OGLceO1yStX)
+- [![IndieHackers](pages/assets/icons/ih.svg)](https://www.indiehackers.com/post/34-year-old-finds-financial-freedom-through-day-trading-and-uses-it-to-build-a-10k-mo-fintech-product-PujthWlU8L3nS4mz2GSc) [34-year-old finds financial freedom through day trading and uses it to build a $10k/mo fintech product](https://www.indiehackers.com/post/34-year-old-finds-financial-freedom-through-day-trading-and-uses-it-to-build-a-10k-mo-fintech-product-PujthWlU8L3nS4mz2GSc)
+- [![IndieHackers](pages/assets/icons/ih.svg)](https://www.indiehackers.com/post/growing-a-fintech-product-to-12k-mo-by-leveraging-discord-8qNnfXXF9OGLceO1yStX) [Growing a fintech product to $12k/mo by leveraging Discord](https://www.indiehackers.com/post/growing-a-fintech-product-to-12k-mo-by-leveraging-discord-8qNnfXXF9OGLceO1yStX)
 
 ---
 &nbsp;
@@ -91,6 +91,7 @@ NVSTly is a free interactive social investing platform where traders can track, 
     <a href="https://nvstly.com/go/facebook" target="_blank">
     <img src="pages/assets/icons/facebook.svg" alt="Follow NVSTly on Facebook">
   </a>
+  </a>
     <a href="https://nvstly.com/go/linkedin" target="_blank">
     <img src="pages/assets/icons/linkedin.svg" alt="Follow NVSTly on LinkedIn">
   </a>
@@ -125,7 +126,11 @@ NVSTly is a free interactive social investing platform where traders can track, 
 - #1 FinTech Product of the Week (x2) & #4 FinTech Product of the Month on [Product Hunt](https://www.producthunt.com/products/nvstly-social-investing)
 
 <p align="center">
-  <a href="https://www.benzinga.com/news/events/24/11/42098678/these-are-the-top-fintech-innovators-recognized-at-benzingas-2024-global-fintech-awards" target="_blank">
+  <a href="https://nvstly.com/shrt/bnzgaward" target="_blank">
     <img src="pages/assets/images/benzinga_badge.png" alt="People's Choice Award" height="160">
+  </a>
+
+  <a href="https://nvstly.com/go/producthunt" target="_blank">
+    <img src="pages/assets/images/product_hunt.png" alt="#1 FinTech Product of the Week" height="54">
   </a>
 </p>
