@@ -11,18 +11,7 @@ Founder & CEO at [NVSTly](https://nvstly.com)
 **Discord:** `itsrich.` (User ID: `877345663900340254`) - [Find me here](https://discord.com/invite/rhAvzyzk9J) & beware of impersonaters!
 
 <p align="center">
-  <a href="https://richw.xyz" style="display: inline-block; text-decoration: none;">
-    <img src="pages/assets/icons/web.svg" alt="richw.xyz" style="display: inline-block;" />
-  </a>
-  <a href="https://x.com/saidbyrich" style="display: inline-block; text-decoration: none;">
-    <img src="pages/assets/icons/x.svg" alt="Follow me on X" style="display: inline-block;" />
-  </a>
-  <a href="https://linkedin.com/in/rich-watson" style="display: inline-block; text-decoration: none;">
-    <img src="pages/assets/icons/linkedin.svg" alt="Connect with me on LinkedIn" style="display: inline-block;" />
-  </a>
-  <a href="https://discord.com/invite/rhAvzyzk9J" style="display: inline-block; text-decoration: none;">
-    <img src="pages/assets/icons/discord.svg" alt="Find me in this Discord community" style="display: inline-block;" />
-  </a>
+  <a href="https://richw.xyz" style="display: inline-block; text-decoration: none;"><img src="pages/assets/icons/web.svg" alt="richw.xyz" style="display: inline-block;" /></a> <a href="https://x.com/saidbyrich" style="display: inline-block; text-decoration: none;"><img src="pages/assets/icons/x.svg" alt="Follow me on X" style="display: inline-block;" /></a> <a href="https://linkedin.com/in/rich-watson" style="display: inline-block; text-decoration: none;"><img src="pages/assets/icons/linkedin.svg" alt="Connect with me on LinkedIn" style="display: inline-block;" /></a> <a href="https://discord.com/invite/rhAvzyzk9J" style="display: inline-block; text-decoration: none;"><img src="pages/assets/icons/discord.svg" alt="Find me in this Discord community" style="display: inline-block;" /></a>
 </p>
 
 <p align="center">
@@ -58,67 +47,14 @@ NVSTly is a free interactive social investing platform where traders can track, 
 [NVSTly Web](https://nvstly.com) | [iOS App](https://nvstly.com/go/ios) | [Google Play App](https://nvstly.com/go/android) | [Discord App/Bot](https://nvstly.com/go/bot) | [GitHub](https://github.com/nvstly)
 
 <p align="center">
-  <a href="https://nvstly.com/go/ios" target="_blank">
-    <img src="pages/assets/images/app_store.png" alt="Download on the App Store" height="50">
-  </a>
-  <a href="https://nvstly.com/go/android" target="_blank">
-    <img src="pages/assets/images/google_play.png" alt="Get it on Google Play" height="50">
-  </a>
+  <a href="https://nvstly.com/go/ios" target="_blank"><img src="pages/assets/images/app_store.png" alt="Download on the App Store" height="50"></a> <a href="https://nvstly.com/go/android" target="_blank"><img src="pages/assets/images/google_play.png" alt="Get it on Google Play" height="50"></a>
 </p>
 
 ## Socials
 [Discord](https://nvstly.com/discord) | [X/Twitter](https://nvstly.com/go/x) | [YouTube](https://nvstly.com/go/youtube) | [TikTok](https://nvstly.com/go/tiktok) | [Instagram](https://nvstly.com/go/instagram) | [Threads](https://nvstly.com/go/threads) | [Facebook](https://nvstly.com/go/facebook) | [LinkedIn](https://nvstly.com/go/linkedin) | [GitHub](https://nvstly.com/go/github) | [Product Hunt](https://nvstly.com/go/producthunt) | [Mastodon](https://nvstly.com/go/mastodon) | [Nostr](https://nvstly.com/go/nostr) | [Bluesky](https://nvstly.com/go/bsky) | [Hive/InLeo](https://nvstly.com/go/hive) | [Medium](https://nvstly.com/go/medium) | [Substack](https://nvstly.com/go/substack)
 
 <p align="center">
-  <a href="https://nvstly.com/go/discord">
-    <img src="pages/assets/icons/discord.svg" alt="Join NVSTly on Discord">
-  </a>
-    <a href="https://nvstly.com/go/x" target="_blank">
-    <img src="pages/assets/icons/x.svg" alt="Follow NVSTly on X">
-  </a>
-    <a href="https://nvstly.com/go/youtube" target="_blank">
-    <img src="pages/assets/icons/youtube.svg" alt="Subscribe to NVSTly on YouTube">
-  </a>
-    <a href="https://nvstly.com/go/tiktok" target="_blank">
-    <img src="pages/assets/icons/tiktok.svg" alt="Follow NVSTly on TikTok">
-  </a>
-    <a href="https://nvstly.com/go/instagram" target="_blank">
-    <img src="pages/assets/icons/instagram.svg" alt="Follow NVSTly on Instagram">
-  </a>
-    <a href="https://nvstly.com/go/threads" target="_blank">
-    <img src="pages/assets/icons/threads.svg" alt="Follow NVSTly on Threads">
-  </a>
-    <a href="https://nvstly.com/go/facebook" target="_blank">
-    <img src="pages/assets/icons/facebook.svg" alt="Follow NVSTly on Facebook">
-  </a>
-  </a>
-    <a href="https://nvstly.com/go/linkedin" target="_blank">
-    <img src="pages/assets/icons/linkedin.svg" alt="Follow NVSTly on LinkedIn">
-  </a>
-    <a href="https://nvstly.com/go/bsky" target="_blank">
-    <img src="pages/assets/icons/bsky.svg" alt="Follow NVSTly on Bluesky">
-  </a>
-    <a href="https://nvstly.com/go/mastodon" target="_blank">
-    <img src="pages/assets/icons/mastodon.svg" alt="Follow NVSTly on Mastodon">
-  </a>
-    <a href="https://nvstly.com/go/nostr" target="_blank">
-    <img src="pages/assets/icons/nostr.svg" alt="Follow NVSTly on Nostr">
-  </a>
-    <a href="https://nvstly.com/go/producthunt" target="_blank">
-    <img src="pages/assets/icons/producthunt.svg" alt="Follow NVSTly on Product Hunt">
-  </a>
-    <a href="https://nvstly.com/go/github" target="_blank">
-    <img src="pages/assets/icons/github.svg" alt="Check out NVSTly on GitHub">
-  </a>
-    <a href="https://nvstly.com/go/hive" target="_blank">
-    <img src="pages/assets/icons/hive.svg" alt="Follow NVSTly on Hive">
-  </a>
-    <a href="https://nvstly.com/go/medium" target="_blank">
-    <img src="pages/assets/icons/medium.svg" alt="Follow NVSTly on Medium">
-  </a>
-    <a href="https://nvstly.com/go/substack" target="_blank">
-    <img src="pages/assets/icons/substack.svg" alt="Subscribe to NVSTly on Substack">
-  </a>
+  <a href="https://nvstly.com/go/discord"><img src="pages/assets/icons/discord.svg" alt="Discord"></a><a href="https://nvstly.com/go/x"><img src="pages/assets/icons/x.svg" alt="X"></a> <a href="https://nvstly.com/go/youtube"><img src="pages/assets/icons/youtube.svg" alt="YouTube"></a> <a href="https://nvstly.com/go/instagram" target="_blank"><img src="pages/assets/icons/instagram.svg" alt="Follow NVSTly on Instagram"></a> <a href="https://nvstly.com/go/threads" target="_blank"><img src="pages/assets/icons/threads.svg" alt="Follow NVSTly on Threads"></a> <a href="https://nvstly.com/go/facebook" target="_blank"><img src="pages/assets/icons/facebook.svg" alt="Follow NVSTly on Facebook"></a> <a href="https://nvstly.com/go/linkedin" target="_blank"><img src="pages/assets/icons/linkedin.svg" alt="Follow NVSTly on LinkedIn"></a> <a href="https://nvstly.com/go/bsky" target="_blank"><img src="pages/assets/icons/bsky.svg" alt="Follow NVSTly on Bluesky"></a> <a href="https://nvstly.com/go/mastodon" target="_blank"><img src="pages/assets/icons/mastodon.svg" alt="Follow NVSTly on Mastodon"></a> <a href="https://nvstly.com/go/nostr" target="_blank"><img src="pages/assets/icons/nostr.svg" alt="Follow NVSTly on Nostr"></a> <a href="https://nvstly.com/go/producthunt" target="_blank"><img src="pages/assets/icons/producthunt.svg" alt="Follow NVSTly on Product Hunt"></a> <a href="https://nvstly.com/go/github" target="_blank"><img src="pages/assets/icons/github.svg" alt="Check out NVSTly on GitHub"></a> <a href="https://nvstly.com/go/hive" target="_blank"><img src="pages/assets/icons/hive.svg" alt="Follow NVSTly on Hive"></a> <a href="https://nvstly.com/go/medium" target="_blank"><img src="pages/assets/icons/medium.svg" alt="Follow NVSTly on Medium"></a> <a href="https://nvstly.com/go/substack" target="_blank"><img src="pages/assets/icons/substack.svg" alt="Subscribe to NVSTly on Substack"></a>
 </p>
 
 ## Awards
@@ -126,11 +62,5 @@ NVSTly is a free interactive social investing platform where traders can track, 
 - #1 FinTech Product of the Week (x2) & #4 FinTech Product of the Month on [Product Hunt](https://www.producthunt.com/products/nvstly-social-investing)
 
 <p align="center">
-  <a href="https://nvstly.com/shrt/bnzgaward" target="_blank">
-    <img src="pages/assets/images/benzinga_badge.png" alt="People's Choice Award" height="160">
-  </a>
-
-  <a href="https://nvstly.com/go/producthunt" target="_blank">
-    <img src="pages/assets/images/product_hunt.png" alt="#1 FinTech Product of the Week" height="54">
-  </a>
+  <a href="https://nvstly.com/shrt/bnzgaward" target="_blank"><img src="pages/assets/images/benzinga_badge.png" alt="People's Choice Award" height="160"></a> <a href="https://nvstly.com/go/producthunt" target="_blank"><img src="pages/assets/images/product_hunt.png" alt="#1 FinTech Product of the Week" height="54"></a>
 </p>
